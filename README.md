@@ -97,7 +97,8 @@ int main(void)
 ![IMG-20230428-WA0006](https://user-images.githubusercontent.com/123359969/235105618-e291195f-2741-43ca-9b42-91ee37a6d775.jpg)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
+ ![IMG-20230428-WA0002](https://user-images.githubusercontent.com/123359969/235107467-6629f1a9-0d91-425f-b566-2469b5a5aa57.png)
+
  
  
  
